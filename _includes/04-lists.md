@@ -1,6 +1,6 @@
 1. Baseball
   1. SF Giants
-3. Tennis
+2. Tennis
   1. Nick Kyrgios
-5. Soccer
+3. Soccer
    1. LA Galaxy
